@@ -1,1 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
 
+  <channel>
+    <title>Fórmula 1 - La Reyna del automovilismo</title>
+    <link>https://dnazarov-72.github.io/dnazarov-LMSGI02_TEv01_01/index.html</link>
+    <description>Noticias y novedades sobre la Formula 1</description>
+    <language>es</language>
+
+  <!-- Punto 1 -->
+    <item>
+      <title>La primera carrera en Madrid</title>
+       <link>https://dnazarov-72.github.io/dnazarov-LMSGI02_TEv01_01/carrera.html</link>
+      <description>Información breve sobre la Carrera en Madrid</description>
+      <pubDate>Tue, 27 Oct 2026 10:00:00 +0000</pubDate>
+      <guid>https://dnazarov-72.github.io/dnazarov-LMSGI02_TEv01_01/carrera.html</guid>
+    </item>
+ <!-- Punto 2 -->
+    <item>
+      <title>La pagina nueva en mi sitio para contactos. Escribeme!</title>
+      <link>https://dnazarov-72.github.io/dnazarov-LMSGI02_TEv01_01/contacto.html</link>
+      <description>Formulario de contacto</description>
+      <pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
+      <guid>https://dnazarov-72.github.io/dnazarov-LMSGI02_TEv01_01/contacto.html</guid>
+    </item>
+  </channel>
+</rss>
+    
